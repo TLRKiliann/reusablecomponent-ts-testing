@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`Sixth snapshot test > testing Header component 1`] = `
+<div>
+  Hello from Header
+</div>
+`;

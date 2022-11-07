@@ -1,0 +1,149 @@
+// Vitest Snapshot v1
+
+exports[`Fourth snapshot test > testing Together component 1`] = `
+<div
+  className="App"
+>
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+</div>
+`;
+
+exports[`My first snapshot test > testing app button 1`] = `
+<div
+  className="App"
+>
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+</div>
+`;
+
+exports[`Second snapshot test > testing BTN component reusable 1`] = `
+<div
+  className="App"
+>
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+</div>
+`;
+
+exports[`Third snapshot test > testing Header Comp test 1`] = `
+<div
+  className="App"
+>
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+  <div>
+    Hello from Header
+  </div>
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />
+</div>
+`;

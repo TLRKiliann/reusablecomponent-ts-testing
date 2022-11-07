@@ -1,0 +1,61 @@
+// Vitest Snapshot v1
+
+exports[`Eight snapshot test > testing Header component 1`] = `
+[
+  <div>
+    Hello from Header
+  </div>,
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>,
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />,
+]
+`;
+
+exports[`Nine snapshot test > testing Button component 1`] = `
+[
+  <div>
+    Hello from Header
+  </div>,
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>,
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />,
+]
+`;
+
+exports[`Seventh snapshot test > testing TogetherComp component 1`] = `
+[
+  <div>
+    Hello from Header
+  </div>,
+  <button
+    data-testid="btnid"
+    onClick={[Function]}
+  >
+    my btn
+  </button>,
+  <input
+    data-testid="inputid"
+    onChange={[Function]}
+    placeholder="inputplace"
+    value="it's false"
+  />,
+]
+`;
