@@ -23,7 +23,7 @@
     "jsdom": "^20.0.2",
     "react-test-renderer": "^18.2.0",
     "typescript": "^4.6.4",
-    "vite": "^6.4.2",
+    "vite": "^6.4.3",
     "vitest": "^4.1.11"
   }
 }
